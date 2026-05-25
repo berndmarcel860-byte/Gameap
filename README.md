@@ -151,7 +151,7 @@ Principle: optional ads first, engagement and retention first.
 - `coins` (integer)
 - `best_score` (integer)
 - `skins` (array/list of unlocked skin IDs)
-- `streaks` (integer for current daily login streak)
+- `current_streak` (integer for current daily login streak)
 
 ### Timers
 - obstacle spawn
