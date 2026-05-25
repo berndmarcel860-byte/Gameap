@@ -52,7 +52,7 @@ Then open the local URL shown by Vite.
 npm run build
 ```
 
-Output goes to `/home/runner/work/Gameap/Gameap/dist`.
+Output goes to `./dist`.
 
 ## Controls
 
