@@ -148,10 +148,10 @@ Principle: optional ads first, engagement and retention first.
 - Profile
 
 ### Local Storage Keys
-- coins
-- best score
-- skins
-- streaks
+- `coins` (integer)
+- `best_score` (integer)
+- `skins` (array/list of unlocked skin IDs)
+- `streaks` (integer for current daily login streak)
 
 ### Timers
 - obstacle spawn
